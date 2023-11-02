@@ -3,6 +3,13 @@
   <h1 align=center>:wave: Hello, I'm Ben Harper</h1>
   <p>Welcome to my GitHub profile!</p>
 
+  <ul>
+    <li>:pancakes: I'm learning full stack web development at Holberton School Tulsa.</li>
+    <li>:puzzle: I love design, the thought process it entails, and problem solving.</li>
+    <li>:team: Teamwork makes the dream work!</li>
+    <li>:game: Check out my indie game on steam: <a href="https://store.steampowered.com/app/1095820/Boogie_Bot/">Boogie Bot</a></li>
+  </ul>
+
   <div align=center>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
