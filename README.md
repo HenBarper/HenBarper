@@ -5,9 +5,9 @@
 
   <ul>
     <li>:pancakes: I'm learning full stack web development at Holberton School Tulsa.</li>
-    <li>:puzzle piece: I love design, the thought process it entails, and problem solving.</li>
+    <li>:Puzzle Piece: I love design, the thought process it entails, and problem solving.</li>
     <li>:handshake: Teamwork makes the dream work!</li>
-    <li>:video game: Check out my indie game on steam: <a href="https://store.steampowered.com/app/1095820/Boogie_Bot/">Boogie Bot</a></li>
+    <li>:Video Game: Check out my indie game on steam: <a href="https://store.steampowered.com/app/1095820/Boogie_Bot/">Boogie Bot</a></li>
   </ul>
 
   <div align=center>
