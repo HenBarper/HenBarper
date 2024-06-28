@@ -4,7 +4,7 @@
   <p>Welcome to my GitHub profile!</p>
 
   <ul>
-    <li>🥞 I'm learning full stack web development at Holberton School Tulsa.</li>
+    <li>🥞 I'm learning full stack web development at Atlas School Tulsa.</li>
     <li>🧩 I love design, the thought process it entails, and problem solving.</li>
     <li>🤝 Teamwork makes the dream work!</li>
     <li>🎮 Check out my indie game on steam: <a href="https://store.steampowered.com/app/1095820/Boogie_Bot/">Boogie Bot</a></li>
